@@ -1,7 +1,7 @@
 # EXPERIMENT-01- INTERFACTING DIGITAL OUTPUT WITH EDGE DEVICE---(RASPBERRYPI-PI4)
-### NAME : Dhiyaneshwar
+### NAME : Sanjay M
 ### DEPARTMENT : IOT
-### REG NO : 212222110009
+### REG NO : 212222110038
 
 ### AIM
 To interface a digital output device (LED) with the Raspberry Pi 4 and control it using Python.
